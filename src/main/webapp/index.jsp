@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='blue'> Welcome to Scopeindia - Software, Networking, and Cloud Professional Education Centre in Kerala and Tamil Nadu <font></h1>
+<h1><font color='green'> Welcome to Scopeindia - Software, Networking, and Cloud Professional Education Centre in Kerala and Tamil Nadu <font></h1>
 
 <a> href="https://scopeindia.org/software-networking-cloud-courses-scope-india">Click here to see our course details</a>
   
